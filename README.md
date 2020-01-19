@@ -1,2 +1,2 @@
 # mech-programmer
-This repository contains my all data science projects
+This repository contains projects and assignments, which were part of IBM Data Science Professional Certificate
